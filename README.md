@@ -2,4 +2,4 @@
 <h3> Resume to be posted on my portfolio website @ www.alferatovic.com </h3>
 
 
-<img src="resume_pic.jpg" height=auto width=auto>
+<img src="resume pic.jpg" height=auto width=auto>
